@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Stockage_distribue_eb19fd23"
+        },
+        {
+            "type": "java",
+            "name": "Launch Clients_Choice_Interface",
+            "request": "launch",
+            "mainClass": "Clients.Clients_Choice_Interface",
+            "projectName": "Stockage_distribue_eb19fd23"
+        },
+        {
+            "type": "java",
+            "name": "Launch Clients_Interface",
+            "request": "launch",
+            "mainClass": "Clients.Clients_Interface",
+            "projectName": "Stockage_distribue_eb19fd23"
+        },
+        {
+            "type": "java",
+            "name": "Launch List_Files",
+            "request": "launch",
+            "mainClass": "Clients.List_Files",
+            "projectName": "Stockage_distribue_eb19fd23"
+        },
+        {
+            "type": "java",
+            "name": "Launch Server_Distributed_Interface",
+            "request": "launch",
+            "mainClass": "Server_Repo.Server_Distributed_Interface",
+            "projectName": "Stockage_distribue_eb19fd23"
+        },
+        {
+            "type": "java",
+            "name": "Launch Server_One_Interface",
+            "request": "launch",
+            "mainClass": "Server_Repo.Server_One_Interface",
+            "projectName": "Stockage_distribue_eb19fd23"
+        },
+        {
+            "type": "java",
+            "name": "Launch Server_Three_Interface",
+            "request": "launch",
+            "mainClass": "Server_Repo.Server_Three_Interface",
+            "projectName": "Stockage_distribue_eb19fd23"
+        },
+        {
+            "type": "java",
+            "name": "Launch Server_Two_Interface",
+            "request": "launch",
+            "mainClass": "Server_Repo.Server_Two_Interface",
+            "projectName": "Stockage_distribue_eb19fd23"
+        },
+        {
+            "type": "java",
+            "name": "Launch List_Client",
+            "request": "launch",
+            "mainClass": "main_server.List_Client",
+            "projectName": "Stockage_distribue_eb19fd23"
+        },
+        {
+            "type": "java",
+            "name": "Launch Server_Interface_Index",
+            "request": "launch",
+            "mainClass": "main_server.Server_Interface_Index",
+            "projectName": "Stockage_distribue_eb19fd23"
+        }
+    ]
+}
